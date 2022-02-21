@@ -16,12 +16,13 @@ The Bio2Byte group is primarily situated at the Interuniversity Institute of Bio
 
 At the VUB, the group is linked to Structural Biology Brussels at the Bioengineering sciences department, as well as the departments of Computer Science and Chemistry at the Faculty of Sciences, plus to the Biomedical sciences at the Faculty of Medicine and Pharmacy.
 
-### Links
+### 🔗 inks 
 - [Bio2Byte](https://bio2byte.be)
 - [Bio2Byte online predictors](https://bio2byte.be/b2btools)
 - [Feedaback](https://www.bio2byte.be/b2btools/feedback) 
+- [Bio2Byte tools package](https://pypi.org/project/b2bTools/)
 
-### List of available notebooks
+## 📓 List of available notebooks
 
 #### Title: `AlphaFold_+_B2B_Tools.ipynb` 
 
@@ -51,7 +52,7 @@ From the output files generated from Alphafold, this notebook runs a set of biop
 - [Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 - [Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 
-### How to use them? 
+### 📃 How to use them? 
 1. Open the Jupyter notebook file of interest
 1. There will be a "Open In Colab" button, if you click on it, a new session on Google Colab will be started
 1. From the Google Colab session you will be able to run the code of the notebook.
