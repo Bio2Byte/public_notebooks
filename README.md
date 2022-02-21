@@ -2,7 +2,8 @@
 Welcome to the repository of Jupyter Notebooks created by the Bio2Byte group!
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1247824923546079232/B9b_Yg7n_400x400.jpg" width="224px"/>
+  <img src="https://pbs.twimg.com/profile_images/1247824923546079232/B9b_Yg7n_400x400.jpg" width="48px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Vrije_Universiteit_Brussel_logo.svg/1200px-Vrije_Universiteit_Brussel_logo.svg.png" alt="vub" width="120px"/>
 </p>
 
 ## About Bio2Byte
@@ -22,10 +23,33 @@ At the VUB, the group is linked to Structural Biology Brussels at the Bioenginee
 
 ### List of available notebooks
 
-- AlphaFold_+_B2B_Tools.ipynb: Run a set of biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
-- Bio2ByteTools_v3_multipleseq_pypi.ipynb: Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment file inputs
-- Bio2ByteTools_v3_singleseq_pypi.ipynb: Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format)
-- Bio2Byte_AlphaFold_Analysis.ipynb: From the output files generated from Alphafold, this notebook runs a set of biophysical feature prediction
+#### `AlphaFold_+_B2B_Tools.ipynb` 
+
+Run a set of biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
+
+[Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
+[Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
+
+#### `Bio2ByteTools_v3_multipleseq_pypi.ipynb` 
+
+Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment file inputs
+
+[Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
+[Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
+
+#### `Bio2ByteTools_v3_singleseq_pypi.ipynb`
+
+Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format)
+
+[Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynbb)
+[Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynb)
+
+#### `Bio2Byte_AlphaFold_Analysis.ipynb`
+
+From the output files generated from Alphafold, this notebook runs a set of biophysical feature prediction
+
+[Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
+[Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 
 ### How to use them? 
 1. Open the Jupyter notebook file of interest
