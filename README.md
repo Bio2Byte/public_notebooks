@@ -1,3 +1,10 @@
+# Public Notebooks
+Welcome to the repository of Jupyter Notebooks created by the Bio2Byte group!
+
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_images/1247824923546079232/B9b_Yg7n_400x400.jpg" width="224px"/>
+</p>
+
 ## About Bio2Byte
 
 Proteins are the molecular machines that make cells work. They perform a wide variety of functions through interactions with each other and many additional molecules. Traditionally, proteins are described in a single static state (a picture). It is now increasingly recognised that many proteins can adopt multiple states and move between these conformational states dynamically (a movie).
@@ -13,9 +20,6 @@ At the VUB, the group is linked to Structural Biology Brussels at the Bioenginee
 - [Bio2Byte online predictors](https://bio2byte.be/b2btools)
 - [Feedaback](https://www.bio2byte.be/b2btools/feedback) 
 
-## Public Notebooks
-Welcome to the public repository of Jupyter Notebooks shared with the scientific community.
-
 ### List of available notebooks
 
 - AlphaFold_+_B2B_Tools.ipynb: Run a set of biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
@@ -28,6 +32,6 @@ Welcome to the public repository of Jupyter Notebooks shared with the scientific
 1. There will be a "Open In Colab" button, if you click on it, a new session on Google Colab will be started
 1. From the Google Colab session you will be able to run the code of the notebook.
 
-<img src="https://pbs.twimg.com/profile_images/1247824923546079232/B9b_Yg7n_400x400.jpg" width="224px"/>
+## Copyright
 
 © Wim Vranken, Bio2Byte group, VUB
