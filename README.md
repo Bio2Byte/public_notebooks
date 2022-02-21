@@ -1,4 +1,4 @@
-# Public Notebooks
+# Public Notebooks 
 Welcome to the repository of Jupyter Notebooks created by the Bio2Byte group!
 
 <p align="center">
@@ -16,7 +16,7 @@ The Bio2Byte group is primarily situated at the Interuniversity Institute of Bio
 
 At the VUB, the group is linked to Structural Biology Brussels at the Bioengineering sciences department, as well as the departments of Computer Science and Chemistry at the Faculty of Sciences, plus to the Biomedical sciences at the Faculty of Medicine and Pharmacy.
 
-### 🔗 inks 
+### 🔗 Links 
 - [Bio2Byte](https://bio2byte.be)
 - [Bio2Byte online predictors](https://bio2byte.be/b2btools)
 - [Feedaback](https://www.bio2byte.be/b2btools/feedback) 
