@@ -38,9 +38,16 @@ Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment f
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
 
-#### Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb`
+#### Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (latest version)
 
-Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format)
+Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.4
+
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
+
+#### Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (beta version including PSP predictions)
+
+Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5b2
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynbb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynb)
