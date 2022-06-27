@@ -22,45 +22,63 @@ At the VUB, the group is linked to Structural Biology Brussels at the Bioenginee
 - [Feedaback](https://www.bio2byte.be/b2btools/feedback) 
 - [Bio2Byte tools package](https://pypi.org/project/b2bTools/)
 
-## 📓 List of available notebooks
+## 📚 List of available notebooks
 
-#### Title: `AlphaFold_+_B2B_Tools.ipynb` 
+### Single Sequence analysis
 
-Run a set of biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
+#### Using PyPI (Python Package Index)
 
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
-
-#### Title: `Bio2ByteTools_v3_multipleseq_pypi.ipynb` 
-
-Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment file inputs
-
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
-
-#### Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (latest version)
+##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (latest version)
 
 Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.4
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
 
-#### Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (beta version including PSP predictions)
+##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (beta version including PSP predictions)
 
 Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5b2
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynbb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynb)
 
-#### Title: `Bio2Byte_AlphaFold_Analysis.ipynb`
+##### 📓 Title: `AlphaFold_+_B2B_Tools.ipynb` 
+
+Run a set of biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
+
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
+
+##### 📓 Title: `Bio2Byte_AlphaFold_Analysis.ipynb`
 
 From the output files generated from Alphafold, this notebook runs a set of biophysical feature prediction
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 
+#### Using Conda package manager
 
-#### Title: `Bio2Byte_Pymol_scripting.ipynb`
+##### 📓 Title: `Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb` (latest version)
+
+Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.4 from Bioconda channel
+
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb)
+
+### Multiple Sequence Alignment analysis
+
+#### Using PyPI (Python Package Index)
+
+##### 📓 Title: `Bio2ByteTools_v3_multipleseq_pypi.ipynb` 
+
+Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment file inputs
+
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
+
+### PyMol on Google Colab
+
+##### 📓 Title: `Bio2Byte_Pymol_scripting.ipynb`
 
 Example of PyMol scripting in Python. This notebook fetchs a PDB and renders both a static image and a 360-degree rotated animation 
 
@@ -68,7 +86,7 @@ Example of PyMol scripting in Python. This notebook fetchs a PDB and renders bot
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_Pymol_scripting.ipynb)
 
 
-### 📃 How to use them? 
+## 📃 How to use them? 
 1. Open the Jupyter notebook file of interest
 1. There will be a "Open In Colab" button, if you click on it, a new session on Google Colab will be started
 1. From the Google Colab session you will be able to run the code of the notebook.
