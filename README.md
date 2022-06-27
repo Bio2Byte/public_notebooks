@@ -26,7 +26,9 @@ At the VUB, the group is linked to Structural Biology Brussels at the Bioenginee
 
 ### Single Sequence analysis
 
-#### Using PyPI (Python Package Index)
+Explore prediction-based 'biophysical variation' of proteins from up to 10 sequences at the same time.
+
+#### 📦 Using PyPI (Python Package Index)
 
 ##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (latest version)
 
@@ -56,7 +58,7 @@ From the output files generated from Alphafold, this notebook runs a set of biop
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 
-#### Using Conda package manager
+#### 📦 Using Conda package manager
 
 ##### 📓 Title: `Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb` (latest version)
 
@@ -67,7 +69,9 @@ Example of usage of our Bio2Byte tools package for single sequence file inputs (
 
 ### Multiple Sequence Alignment analysis
 
-#### Using PyPI (Python Package Index)
+Explore prediction-based 'biophysical variation' of proteins from a multiple sequence alignment.
+
+#### 📦 Using PyPI (Python Package Index)
 
 ##### 📓 Title: `Bio2ByteTools_v3_multipleseq_pypi.ipynb` 
 
