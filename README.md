@@ -37,6 +37,11 @@ Example of usage of our Bio2Byte tools package for single sequence file inputs (
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
 
+#### Title: `PIP_B2B_Tools_using_files.ipynb` (latest version supporting FASTA file as input)
+
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/PIP_B2B_Tools_using_files.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/PIP_B2B_Tools_using_files.ipynb)
+
 ##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (beta version including PSP predictions)
 
 Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5b2
