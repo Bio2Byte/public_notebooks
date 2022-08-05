@@ -65,12 +65,12 @@ From the output files generated from Alphafold, this notebook runs a set of biop
 
 #### 📦 Using Conda package manager
 
-##### 📓 Title: `Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb` (latest version)
+##### 📓 Title: `Bio2ByteTools_v3.0.5_SingleSequence_demo_bioconda.ipynb` (latest version)
 
 Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5 from Bioconda channel
 
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb)
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo_bioconda.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo_bioconda.ipynb)
 
 ### Multiple Sequence Alignment analysis
 
