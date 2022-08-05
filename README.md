@@ -1,4 +1,4 @@
-# Public Notebooks 
+# Public Notebooks
 Welcome to the repository of Jupyter Notebooks created by the Bio2Byte group!
 
 <p align="center">
@@ -16,10 +16,10 @@ The Bio2Byte group is primarily situated at the Interuniversity Institute of Bio
 
 At the VUB, the group is linked to Structural Biology Brussels at the Bioengineering sciences department, as well as the departments of Computer Science and Chemistry at the Faculty of Sciences, plus to the Biomedical sciences at the Faculty of Medicine and Pharmacy.
 
-### 🔗 Links 
+### 🔗 Links
 - [Bio2Byte](https://bio2byte.be)
 - [Bio2Byte online predictors](https://bio2byte.be/b2btools)
-- [Feedaback](https://www.bio2byte.be/b2btools/feedback) 
+- [Feedaback](https://www.bio2byte.be/b2btools/feedback)
 - [Bio2Byte tools package](https://pypi.org/project/b2bTools/)
 
 ## 📚 List of available notebooks
@@ -32,24 +32,24 @@ Explore prediction-based 'biophysical variation' of proteins from up to 10 seque
 
 ##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (latest version)
 
-Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.4
+Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5
 
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo.ipynb)
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo.ipynb)
 
-#### Title: `PIP_B2B_Tools_using_files.ipynb` (latest version supporting FASTA file as input)
+#### Title: `Bio2ByteTools_v3_singleseq_pypi_with_files.ipynb` (latest version supporting FASTA files as input)
 
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/PIP_B2B_Tools_using_files.ipynb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/PIP_B2B_Tools_using_files.ipynb)
+- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi_with_files.ipynb)
+- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi_with_files.ipynb)
 
-##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (beta version including PSP predictions)
+##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (version including PSP predictions)
 
-Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5b2
+Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynbb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynb)
 
-##### 📓 Title: `AlphaFold_+_B2B_Tools.ipynb` 
+##### 📓 Title: `AlphaFold_+_B2B_Tools.ipynb`
 
 Run a set of biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
 
@@ -67,7 +67,7 @@ From the output files generated from Alphafold, this notebook runs a set of biop
 
 ##### 📓 Title: `Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb` (latest version)
 
-Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.4 from Bioconda channel
+Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5 from Bioconda channel
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.4_SingleSequence_demo_bioconda.ipynb)
@@ -78,7 +78,7 @@ Explore prediction-based 'biophysical variation' of proteins from a multiple seq
 
 #### 📦 Using PyPI (Python Package Index)
 
-##### 📓 Title: `Bio2ByteTools_v3_multipleseq_pypi.ipynb` 
+##### 📓 Title: `Bio2ByteTools_v3_multipleseq_pypi.ipynb`
 
 Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment file inputs
 
@@ -89,13 +89,13 @@ Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment f
 
 ##### 📓 Title: `Bio2Byte_Pymol_scripting.ipynb`
 
-Example of PyMol scripting in Python. This notebook fetchs a PDB and renders both a static image and a 360-degree rotated animation 
+Example of PyMol scripting in Python. This notebook fetchs a PDB and renders both a static image and a 360-degree rotated animation
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2Byte_Pymol_scripting.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_Pymol_scripting.ipynb)
 
 
-## 📃 How to use them? 
+## 📃 How to use them?
 1. Open the Jupyter notebook file of interest
 1. There will be a "Open In Colab" button, if you click on it, a new session on Google Colab will be started
 1. From the Google Colab session you will be able to run the code of the notebook.
