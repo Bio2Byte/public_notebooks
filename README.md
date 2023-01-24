@@ -1,4 +1,4 @@
-# Public Notebooks
+# B2btools: Predict the biophysical behavior of your protein(s) - Public Notebooks
 Welcome to the repository of Jupyter Notebooks created by the Bio2Byte group!
 
 <p align="center">
@@ -22,55 +22,42 @@ At the VUB, the group is linked to Structural Biology Brussels at the Bioenginee
 - [Feedaback](https://www.bio2byte.be/b2btools/feedback)
 - [Bio2Byte tools package](https://pypi.org/project/b2bTools/)
 
+## About the b2btools
+Explore the prediction-based 'biophysical variation' of proteins along its sequence. The predictions reflect 'emerging' properties, so what the sequence is capable of, not necessarily what it will do in a particular context, for example when it adopts a specific fold. 
+The predicted biophysical features are the following:
+- Backbone and sidechain dynamics (DynaMine)
+- Conformational propensities (sheet, helix, coil, polyproline II) (DynaMine)
+- Early folding propensities (EFoldMine)
+- Disorder propensities (DisoMine)
+- Beta aggregation propensity (AgMata)
+- Phase seperation propensity (PPser) 
+
+
 ## 📚 List of available notebooks
 
 ### Single Sequence analysis
 
-Explore prediction-based 'biophysical variation' of proteins from up to 10 sequences at the same time.
-
-#### 📦 Using PyPI (Python Package Index)
-
 ##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (latest version)
 
-Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5
+Example of usage of our Bio2Byte tools package for single sequence(s) using v3.0.5.
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo.ipynb)
 
-#### Title: `Bio2ByteTools_v3_singleseq_pypi_with_files.ipynb` (latest version supporting FASTA files as input)
-
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi_with_files.ipynb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi_with_files.ipynb)
-
-##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (version including PSP predictions)
-
-Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5
-
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynbb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_singleseq_pypi.ipynb)
-
 ##### 📓 Title: `AlphaFold_+_B2B_Tools.ipynb`
 
-Run a set of biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
+Run the biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
 
 ##### 📓 Title: `Bio2Byte_AlphaFold_Analysis.ipynb`
 
-From the output files generated from Alphafold, this notebook runs a set of biophysical feature prediction
+Compare the predicted biophysical features obtained with the b2btools and the pLDTT computed by Alphafold.
 
 - [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 - [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 
-#### 📦 Using Conda package manager
-
-##### 📓 Title: `Bio2ByteTools_v3.0.5_SingleSequence_demo_bioconda.ipynb` (latest version)
-
-Example of usage of our Bio2Byte tools package for single sequence file inputs (in FASTA format) using v3.0.5 from Bioconda channel
-
-- [📖 Read Jupyter Notebook](https://github.com/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo_bioconda.ipynb)
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo_bioconda.ipynb)
 
 ### Multiple Sequence Alignment analysis
 
