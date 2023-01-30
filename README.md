@@ -25,18 +25,13 @@ Both a single sequence and a Multiple Sequence Alignment (MSA) can be used as in
 
 ### Single Sequence analysis
 
-- 📓 Prediction of the biophysical features of a single sequence and visualization of the predicted values on 2D plots and on the 3D structures/models of the corresponding sequence: `Bio2ByteTools_v3_singleseq_pypi.ipynb`
-[⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo.ipynb)
-
-- 📓 Comparison between the predicted biophysical features of a single sequence and the pLDDT values of the AlphaFold model of that sequence:  `AlphaFold_+_B2B_Tools.ipynb`
-[⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
-
+- 📓 Prediction of the biophysical features of a single sequence and visualization of the predicted values on 2D plots and on the 3D structures/models of the corresponding sequence: `B2B_Tools_Single_sequence_Example.ipynb` [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/B2B_Tools_Single_sequence_Example.ipynb)
 
 ### Multiple Sequence Alignment (MSA) analysis
 Prediction of the biophysical features of a MSA, computation of the MSA biophysical and sequence conservation and 2D visualization of these values. This analysis can be done:
 
-- 📓In function of a protein's behavior [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/B2B_Tools_Single_sequence_Example.ipynb)
-- 📓For the overall behavior of the MSA [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
+- 📓In function of a protein's behavior: `.ipynb` [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/B2B_Tools_Single_sequence_Example.ipynb)
+- 📓For the overall behavior of the MSA: `.ipynb`[⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
 
 ## 📃 How to use them?
 1. Open the Jupyter notebook file of interest
