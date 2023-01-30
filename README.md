@@ -25,37 +25,18 @@ Both a single sequence and a Multiple Sequence Alignment (MSA) can be used as in
 
 ### Single Sequence analysis
 
-##### 📓 Title: `Bio2ByteTools_v3_singleseq_pypi.ipynb` (latest version)
+- 📓 Prediction of the biophysical features of a single sequence and visualization of the predicted values on 2D plots and on the 3D structures/models of the corresponding sequence: `Bio2ByteTools_v3_singleseq_pypi.ipynb`
+[⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo.ipynb)
 
-Example of usage of our Bio2Byte tools package for single sequence(s) using v3.0.5.
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3.0.5_SingleSequence_demo.ipynb)
-
-##### 📓 Title: `AlphaFold_+_B2B_Tools.ipynb`
-
-Run the biophysical feature predictions on top of an Alphafold thee-dimensional predicted structure.
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/AlphaFold_%2B_B2B_Tools.ipynb)
-
-##### 📓 Title: `Bio2Byte_AlphaFold_Analysis.ipynb`
-
-Compare the predicted biophysical features obtained with the b2btools and the pLDTT computed by Alphafold.
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
+- 📓 Comparison between the predicted biophysical features of a single sequence and the pLDDT values of the AlphaFold model of that sequence:  `AlphaFold_+_B2B_Tools.ipynb`
+[⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_AlphaFold_Analysis.ipynb)
 
 
-### Multiple Sequence Alignment analysis
+### Multiple Sequence Alignment (MSA) analysis
+Prediction of the biophysical features of a MSA, computation of the MSA biophysical and sequence conservation and 2D visualization of these values. This analysis can be done:
 
-Explore prediction-based 'biophysical variation' of proteins from a multiple sequence alignment.
-
-##### 📓 Title: `Bio2ByteTools_v3_multipleseq_pypi.ipynb`
-
-Example of usage of our Bio2Byte tools package for Multiple Sequence Alignment file inputs
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
-
-### PyMol on Google Colab
-
-##### 📓 Title: `Bio2Byte_Pymol_scripting.ipynb`
-
-Example of PyMol scripting in Python. This notebook fetchs a PDB and renders both a static image and a 360-degree rotated animation
-- [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2Byte_Pymol_scripting.ipynb)
+- 📓In function of a protein's behavior [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
+- 📓For the overall behavior of the MSA [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
 
 ## 📃 How to use them?
 1. Open the Jupyter notebook file of interest
@@ -64,7 +45,7 @@ Example of PyMol scripting in Python. This notebook fetchs a PDB and renders bot
 
 ## :package: PyPi Repository
 
-Download the Bio2Byte's tools package from our PyPi repository: [Bio2Byte tools package](https://pypi.org/project/b2bTools/).
+Want to try out the b2btools? Download the Bio2Byte's tools package from our PyPi repository: [Bio2Byte tools package](https://pypi.org/project/b2bTools/).
 
 ## About Bio2Byte
 
