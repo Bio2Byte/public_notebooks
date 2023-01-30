@@ -35,7 +35,7 @@ Both a single sequence and a Multiple Sequence Alignment (MSA) can be used as in
 ### Multiple Sequence Alignment (MSA) analysis
 Prediction of the biophysical features of a MSA, computation of the MSA biophysical and sequence conservation and 2D visualization of these values. This analysis can be done:
 
-- 📓In function of a protein's behavior [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
+- 📓In function of a protein's behavior [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/B2B_Tools_Single_sequence_Example.ipynb)
 - 📓For the overall behavior of the MSA [⏯️ Open Jupyter Notebook on Google Colab](https://colab.research.google.com/github/Bio2Byte/public_notebooks/blob/main/Bio2ByteTools_v3_multipleseq_pypi.ipynb)
 
 ## 📃 How to use them?
