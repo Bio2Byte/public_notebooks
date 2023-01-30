@@ -61,7 +61,7 @@ At the VUB, the group is linked to Structural Biology Brussels at the Bioenginee
 
 - [Bio2Byte](https://bio2byte.be)
 - [Bio2Byte online predictors](https://bio2byte.be/b2btools)
-- [Feedback](https://www.bio2byte.be/b2btools/feedback)
+- [Feedback or Questions](https://www.bio2byte.be/b2btools/feedback)
 - [Bio2Byte tools package](https://pypi.org/project/b2bTools/)
 
 ## :book: Citations
